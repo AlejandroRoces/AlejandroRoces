@@ -1,10 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Alejandro 👋</h1>
 </div>
-<img src="file:///C:/Users/Alejandro%20Roces/OneDrive%20-%20Universidad%20de%20Oviedo/Im%C3%A1genes/Captura%20de%20pantalla%202024-11-25%20094144.jpg">
+<img src="banner.jpg">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
@@ -20,9 +18,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Protecto final de grado</h3>
+<h3 align="center">PROYECTO FINAL DE GRADO</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="CampTrack"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="campTrack.png" width="400" alt="CampTrack"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -31,7 +29,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Proyecto final de grado en <strong>Desarrollo de aplicaciones web</strong>. Aplicacion web para la <strong>gestion y optimizacion</strong> de proyectos en el ocio y tiempo libre.</p>
 </div>
                                                                                       
 </td>
