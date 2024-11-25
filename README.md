@@ -14,7 +14,7 @@
 
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *destacados*
 <table>
 <tr>
 <td width="50%">
@@ -22,11 +22,11 @@
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="campTrack.png" width="400" alt="CampTrack"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://youtu.be/vJapzH_46a8" target="WEB CAMPTRACK">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 </p>
 <p>Proyecto final de grado en <strong>Desarrollo de aplicaciones web</strong>. Aplicacion web para la <strong>gestion y optimizacion</strong> de proyectos en el ocio y tiempo libre.</p>
@@ -38,11 +38,11 @@
                <br>
 <h3 align="center"></h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank"><img src="" width="400" alt="Web html"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="" target="_blank">
+<img src="">
 </a>
 </p>
 </p></p>
