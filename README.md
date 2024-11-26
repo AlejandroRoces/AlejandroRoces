@@ -9,7 +9,7 @@
 ## Sobre mi
 
 - 💻 Web developer  
-- 📲 mobile development apprentice
+- 📲 Mobile development apprentice
 - 📍 https://linktr.ee/alesRoces
 
 <br>
