@@ -8,7 +8,6 @@
 ## Sobre mi
 
 - 💻 Web developer  
-- 📲 Mobile development apprentice
 - 📍 https://linktr.ee/alesRoces
 
 <br>
@@ -19,12 +18,12 @@
 <td width="50%">
 <h3 align="center">PROYECTO FINAL DE GRADO</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="campTrack.png" width="400" alt="CampTrack"></a>
+<a href="" target="_blank"><img src="campTrack.png" width="400" alt="CampTrack"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="WEB CAMPTRACK">
+<a href="" target="WEB CAMPTRACK">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 </p>
@@ -38,12 +37,12 @@
 <div align="center">
   <br><br><br><br>
 
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="daw.jpg" width="400" alt="CampTrack"></a>
+<a href="" target="_blank"><img src="daw.jpg" width="400" alt="CampTrack"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="WEB CAMPTRACK">
+<a href="" target="WEB CAMPTRACK">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 </p>
